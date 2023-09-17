@@ -1,0 +1,13 @@
+name: crystal-threejs
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  crystal-threejs:
+    main: src/crystal-threejs.cr
+
+crystal: 1.9.2
+
+license: MIT
