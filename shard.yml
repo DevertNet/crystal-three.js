@@ -8,6 +8,10 @@ targets:
   crystal-threejs:
     main: src/crystal-threejs.cr
 
+dependencies:
+  tasker:
+    github: spider-gazelle/tasker
+
 crystal: 1.9.2
 
 license: MIT
